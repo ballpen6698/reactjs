@@ -1,0 +1,5 @@
+1.	How to start REST API. 
+Run ReactAndSpringDataRestApplication java file and type http://localhost:8080/api/notes in url to view all available links 
+
+2.	How to access reactjs application
+execute step 1 and type in url http://localhost:8080, then you will be able to post/delete posts. 
